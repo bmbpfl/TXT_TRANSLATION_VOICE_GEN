@@ -1,0 +1,17 @@
+	# Stream Lit
+streamlit
+
+	# For Translation
+deep_translator
+
+	# For Reading Document File
+docx
+
+	# For Reading PDF File
+PyPDF2
+
+	# For Generating Voice Output from Translated Text
+gtts
+
+
+

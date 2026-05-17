@@ -1,0 +1,6 @@
+
+	what is your name
+
+	how old are you
+
+	welcome to text -> translation -> voice generation for the translated text utility
