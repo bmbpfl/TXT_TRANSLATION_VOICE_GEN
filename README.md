@@ -33,7 +33,7 @@ Text/Document/PDF file content -> Translation to target Language -> Voice Genera
 
 4. 
 
-	STREAMLIT RUN # txt_translation_to_voice_generation.py
+	# STREAMLIT RUN txt_translation_to_voice_generation.py
 
     this will execute the python code
 
